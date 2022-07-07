@@ -17,6 +17,7 @@ generate a Food Item Hamper that meets the caloric needs for a specified number 
 	- In command-line, execute the following command to launch the program: java -cp .;lib/mysql-connector-java-8.0.23.jar HamperOrderingSystem
 
 3. How to use the program:
+
 	a) Fill out the family information fields (Number of Males, Number of Females, Number of Children Over8, and Number of Children Under 8),
 	   for whom the Hamper is being created for.
 	   
