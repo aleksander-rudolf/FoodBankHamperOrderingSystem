@@ -38,5 +38,7 @@ generate a Food Item Hamper that meets the caloric needs for a specified number 
 	  (HamperOrderingSystem)
 	  
 	- In command-line, execute the following commands sequentially:
+
 		javac -cp .;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar *.java
+		
 		java -cp .;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar org.junit.runner.JUnitCore TestDesign
