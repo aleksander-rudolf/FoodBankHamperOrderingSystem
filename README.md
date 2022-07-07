@@ -18,12 +18,18 @@ generate a Food Item Hamper that meets the caloric needs for a specified number 
 
 3. How to use the program:
 	a) Fill out the family information fields (Number of Males, Number of Females, Number of Children Over8, and Number of Children Under 8),
-		for whom the Hamper is being created for.
+	   for whom the Hamper is being created for.
+	   
 	b) Click the "Save family information" button to add the Hamper to the current Order.
+	
 	c) To add multiple Hampers to an Order, repeat steps (a) and (b).
+	
 	d) Click the "Submit order" button when all Hampers are added to the Order.
+	
 	e) An OrderSummary output file will be generated and can be found in the HamperOrderingSystem directory.
+	
 	f) To complete another Order, repeat steps (a) - (e).
+	
 	g) To close the program, click the (X) at the top-right corner of the program window.
 	
 4. How to test the program with JUnit/Hamcrest:
